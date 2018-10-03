@@ -1,9 +1,9 @@
-package helloWorld2;
+package helloWorld;
 
 public class hello {
  public static void main(String []args) 
  {
-	 System.out.println("This is hello world 2");
+	 System.out.println("This is hello world ");
 	 
  }
 }
